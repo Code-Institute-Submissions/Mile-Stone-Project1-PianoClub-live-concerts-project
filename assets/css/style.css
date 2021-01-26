@@ -50,3 +50,13 @@ body {
     height: 100vh;
 
 }
+
+/*--------------------------------------------------------------Buttons*/
+
+.btn-danger a {
+    color:white;
+}
+
+.btn-danger {
+    border-radius: 10px;
+}
