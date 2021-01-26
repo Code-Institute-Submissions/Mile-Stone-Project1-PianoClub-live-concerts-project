@@ -68,10 +68,11 @@ background-color: rgba(0,0,0,0.5);
     
 }
 
-.header-text 
-{
-    font-size: 20px;
-    margin-bottom: 100px;
+
+
+
+.header-text p {
+    margin-top: 10px;
 }
 
 
@@ -84,4 +85,5 @@ background-color: rgba(0,0,0,0.5);
 
 .btn-danger {
     border-radius: 10px;
+    margin-top: 25px;
 }
