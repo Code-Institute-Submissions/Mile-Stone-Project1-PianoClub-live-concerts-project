@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body {
+
+    background:#696969 ;
+    font-family: "Exo", sans-serif;
+    overflow: auto;
+    height: 100vh;
+    overflow-x: hidden;
+   
+}
