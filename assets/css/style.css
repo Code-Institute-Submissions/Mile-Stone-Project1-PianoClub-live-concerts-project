@@ -178,5 +178,15 @@ background-color: rgba(0,0,0,0.5);
 
 /*-------------------------------------------------------------------Section Sign Up form (Book a spot for concerts)*/
 
+.form-section {
+    background-color:#696969;
+}
 
+.wrapper {
+    max-width: 600px;
+    width: 100%;
+    background:#e30134;
+    margin: 20px auto;
+    padding: 30px;
+} 
 
