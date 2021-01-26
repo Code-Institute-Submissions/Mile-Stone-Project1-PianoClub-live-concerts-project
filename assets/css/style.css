@@ -16,7 +16,7 @@ body {
    
 }
 
-/*---------------------------------------------------------Navigation bar-------*/
+/*---------------------------------------------------------Navigation bar*/
 
 .navbar-brand {
          font-family: "Exo", sans-serif;
@@ -170,6 +170,9 @@ background-color: rgba(0,0,0,0.5);
   margin-top: 20px;
   margin-bottom: 10px;
   object-fit: cover;
+  filter: gray;
+  -webkit-filter: grayscale(20%);
+
   
 }
 
