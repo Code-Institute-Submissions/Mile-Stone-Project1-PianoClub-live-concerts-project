@@ -88,7 +88,7 @@ background-color: rgba(0,0,0,0.5);
     margin-top: 25px;
 }
 
-/*---------------------------------------------------------------Section How it works----*/
+/*---------------------------------------------------------------Section How it works*/
 
 .description {
       color: white;
@@ -134,5 +134,44 @@ background-color: rgba(0,0,0,0.5);
 .description-text .museum a:hover {
     color: grey;
 }
+
+
+/*----------------------------------------------------------------------Section Meet our team*/
+
+.team {
+
+    padding-top: 120px;
+    padding-bottom: 160px;
+    color: #fff;
+    text-align: center;
+
+}
+
+.team-title {
+    color: #12151F;
+}
+    
+.team h3  {
+    margin-bottom: 25px;
+}
+
+.team h4{
+    color:#12151F;
+}
+
+/*---------------------------------------------------------------------Team members photos*/
+.team-items img {
+     
+  width:250px;
+  height: 250px;
+  padding: 10px;
+  border-radius:50%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  object-fit: cover;
+  
+}
+
 
 
