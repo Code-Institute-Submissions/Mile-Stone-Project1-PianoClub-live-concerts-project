@@ -38,7 +38,7 @@ body {
      }
 
 
-/*-----------------------------------------------------------------Header*/
+/*------------------------------------------------------------------------------Header*/
 
 .header > div {
     color: #fff;
@@ -50,6 +50,31 @@ body {
     height: 100vh;
 
 }
+
+.opaque-overlay {
+
+position: absolute;
+top: 0;
+left: 0;
+height: 100vh;
+width: 100%;
+background-color: rgba(0,0,0,0.5);
+    }
+
+
+.header-title {
+    font-size: 50px;
+    padding-top: 30px;
+    
+}
+
+.header-text 
+{
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+
 
 /*--------------------------------------------------------------Buttons*/
 
