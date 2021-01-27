@@ -256,8 +256,39 @@ background-color: rgba(0,0,0,0.5);
 }
 
 
+/*---------------------------------------------------------------------------Footer*/
+
+footer {
+    background-color:#12151F;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #fff;
+   
+}
+
+footer h1 {
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+}
 
 
+footer i {
+    color: white;
+    
+    
+}
+
+footer i:hover {
+    color: #e30134;
+}
+
+footer .contact-items {
+    text-align: center;
+    margin-left: 70px;
+}
 
 
 
