@@ -182,14 +182,17 @@ background-color: rgba(0,0,0,0.5);
     background-color:#696969;
 }
 
+
+
 .wrapper {
-    max-width: 600px;
+    max-width: 500px;
     width: 100%;
     background:#e30134;
     margin: 20px auto;
     padding: 30px;
     box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-} 
+
+}    
 
 .wrapper .title {
     font-size: 24px;
@@ -206,5 +209,60 @@ background-color: rgba(0,0,0,0.5);
 .wrapper .form {
     width: 100%;
 }
+
+
+.wrapper .form .input-field {
+
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+
+}
+
+.wrapper .form .input-field label {
+    width: 200px;
+    color:white;
+    margin-right: 10px;
+    font-size: 14px;
+
+}
+
+.wrapper .form .input-field input {
+    width: 100%;
+    outline: none;
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-radius: 3px;
+}
+
+.wrapper .form .inputfield .btn {
+    width: 100%;
+    padding: 10px 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    border: 0;
+    background: #12151F;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+
+}
+
+
+.wrapper .form .inputfield .btn:hover {
+    background: grey;
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
