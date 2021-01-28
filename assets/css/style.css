@@ -60,6 +60,9 @@ width: 100%;
 background-color: rgba(0,0,0,0.5);
     }
 
+.header-row {
+    margin-top: 70px;
+}
 
 .header-title {
     font-size: 50px;
@@ -294,6 +297,12 @@ footer .footer-contacts li {
     align-items: center;
     
 }
+
+footer .fab {
+    font-size: xx-large;
+    padding-right: 25px;
+}
+
 
 
 
