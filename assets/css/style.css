@@ -258,6 +258,9 @@ background-color: rgba(0,0,0,0.5);
 
 /*---------------------------------------------------------------------------Footer*/
 
+
+
+
 footer {
     background-color:#12151F;
     height: auto;
@@ -285,9 +288,13 @@ footer i:hover {
     color: #e30134;
 }
 
-footer .contact-items {
-    text-align: center;
-    margin-left: 70px;
+footer .footer-contacts li {
+    margin-left: 20px;
+}
+
+.footer-contacts  {
+    align-items: center;
+    
 }
 
 
