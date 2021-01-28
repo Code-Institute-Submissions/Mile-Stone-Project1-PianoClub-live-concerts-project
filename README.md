@@ -58,10 +58,10 @@ Colour Scheme
 - The “Who we are?” section is executed with the light-grey background, dark-grey heading and founders names, white description of the team goals and their functions int the project. These colors highlight the section and make the content easy to understand and read.
 - The “Book your spot” section with the implemented booking form is executed in red, light-grey, dark-grey and white colors. This gives consistency and balance to the entire landing page. 
 
-# Typography
+## Typography
 The Exo font is the main font used throughout the landing page with Sans Serif as the fallback font. It is easy to read, stylish font, with a touch of exclusivity that users will surely appreciate.
 
-# Imagery
+## Imagery
 The large, background hero image is designed to convey the main message, catch the user's attention and bring them to the cozy environment of the piano concerts. As noted above, the photo is selected in black and white with an opaque overlay effect, which gives it some exclusivity.
 The founders/performers images are also used to make to introduce users to those who organized the project and who will play the concerts. For the photos, I used a 20% gray filter to avoid too much sharp contrast with the gray background.
 
