@@ -68,3 +68,11 @@ The Exo font is the main font used throughout the landing page with Sans Serif a
 The large, background hero image is designed to convey the main message, catch the user's attention and bring them to the cozy environment of the piano concerts. As noted above, the photo is selected in black and white with an opaque overlay effect, which gives it some exclusivity.
 The founders/performers images are also used to make to introduce users to those who organized the project and who will play the concerts. For the photos, I used a 20% gray filter to avoid too much sharp contrast with the gray background.
 
+## Wireframes
+
+
+![Homepage Large screen](https://user-images.githubusercontent.com/65509895/106316449-09c82100-626d-11eb-8ed5-f85bb0f6d405.png)
+![Screenshot How it works](https://user-images.githubusercontent.com/65509895/106316456-0df43e80-626d-11eb-81c2-2c23fb2a932c.png)
+![Screenshot_Meet_our_team](https://user-images.githubusercontent.com/65509895/106316459-10569880-626d-11eb-8490-6dc5202f1add.png)
+![Screenshot_Mobile_view](https://user-images.githubusercontent.com/65509895/106316467-12b8f280-626d-11eb-95fa-44422af66c05.png)
+
