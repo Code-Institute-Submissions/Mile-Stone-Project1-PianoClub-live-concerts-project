@@ -123,14 +123,14 @@ background-color: rgba(0,0,0,0.5);
 
 .description-text i:hover{
   
-  color: grey;
+  color: white;
 }
 
 
 
 .description-text .museum a {
-    text-decoration: none;
-    color: white;
+    text-decoration: none;    
+    color: #fff;
 }
 
 .description-text .museum a:hover {
