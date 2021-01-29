@@ -1,3 +1,6 @@
+
+![MS1_Screenshot](https://user-images.githubusercontent.com/65509895/106314805-91606080-626a-11eb-9875-249ef91bc23a.png)
+
 # PianoClub
 ## Website for piano music lovers
 
