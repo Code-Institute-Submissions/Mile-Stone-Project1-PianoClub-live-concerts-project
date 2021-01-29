@@ -93,7 +93,7 @@ background-color: rgba(0,0,0,0.5);
 /*----------------------------------How it works---------------------------------------*/
 
 .description {
-      color: white;
+      color: #fff;
       text-align: center;
       background: #e30134;
       width: 100%;     
@@ -123,7 +123,7 @@ background-color: rgba(0,0,0,0.5);
 
 .description-text i:hover{
   
-  color: white;
+  color: grey;
 }
 
 
@@ -142,9 +142,9 @@ background-color: rgba(0,0,0,0.5);
 
 .team {
 
-    padding-top: 120px;
+    padding-top: 70px;
     padding-bottom: 160px;
-    color:#fff;
+    color: #fff;
     text-align: center;
 
 }
@@ -173,9 +173,7 @@ background-color: rgba(0,0,0,0.5);
   margin-top: 10px;
   margin-bottom: 10px;
   object-fit: cover;
-  filter: gray;
-  -webkit-filter: grayscale(20%);
-
+  
 }
 
 /*---------------------------------Sign Up form----------------------*/
@@ -204,7 +202,7 @@ background-color: rgba(0,0,0,0.5);
     text-align: center;
     color:#fff;
     padding-bottom: 15px;
-    font-family: "Exo" sans-serif;
+    font-family: "Exo", sans-serif;
 
 }
 
