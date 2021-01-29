@@ -1,3 +1,6 @@
+
+
+
 # PianoClub
 ## Website for piano music lovers
 
@@ -41,11 +44,8 @@ The landing page is aimed but not limited to the following users:
 - As a returning visitor, I want to book my spot for the concert in the provided form.  
 - As a returning visitor I want to join the community most quickly.
 
-## As an owner: 
-- I want the website to make users (piano music lovers) happy and inspired by the possibility to attend concerts. 
-- I want to provide users with all needed information on the concerts and professional musicians performing the music, to make a good impression by its design and easy navigation. 
-- I want to make visitors loyal and create in the future a stable community that will allow us as founders to expand this project even to greater initiatives in arts. (sign up form)
-Design Process
+
+# Design Process
 The first step of the design process was based on the target audience's description, user story and the key features i wanted to provide on the landing page for intuitive navigation. Thus, i decided to implement several sections: “Home”, “How it works?”, “Who we are?”, “Book your spot”. In addition, i decided to add a navigation bar with the navigation menu and a footer with contacts. The original design changed slightly during the code generation, but not critical.
 
 # Design
