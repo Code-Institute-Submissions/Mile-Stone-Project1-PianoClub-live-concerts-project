@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 
+=======
+![MS1_Screenshot](https://user-images.githubusercontent.com/65509895/106314805-91606080-626a-11eb-9875-249ef91bc23a.png)
+>>>>>>> 0bec0ecde2da65397eb9d1e52eca215878c2f5b2
 
 # PianoClub
 ## Website for piano music lovers
@@ -93,4 +97,11 @@ The founders/performers images are also used to make to introduce users to those
 -	[GitHub]  (https://github.com/)  GitHub is used to store the projects code after being pushed from Git.
 -	[Balsamiq] (https://balsamiq.com/)  I used Balsamiq to create initial wireframes for the project design.
 
+## Wireframes
+
+
+![Homepage Large screen](https://user-images.githubusercontent.com/65509895/106316449-09c82100-626d-11eb-8ed5-f85bb0f6d405.png)
+![Screenshot How it works](https://user-images.githubusercontent.com/65509895/106316456-0df43e80-626d-11eb-81c2-2c23fb2a932c.png)
+![Screenshot_Meet_our_team](https://user-images.githubusercontent.com/65509895/106316459-10569880-626d-11eb-8490-6dc5202f1add.png)
+![Screenshot_Mobile_view](https://user-images.githubusercontent.com/65509895/106316467-12b8f280-626d-11eb-95fa-44422af66c05.png)
 
