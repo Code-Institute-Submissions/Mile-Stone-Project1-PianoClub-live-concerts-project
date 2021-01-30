@@ -2,6 +2,9 @@
 ![MS1_Screenshot](https://user-images.githubusercontent.com/65509895/106314805-91606080-626a-11eb-9875-249ef91bc23a.png)
 
 # PianoClub
+
+[View the live project here](https://diolg.github.io/Mile-Stone-Project1-PianoClub-live-concerts-project/)
+
 ## Website for piano music lovers
 
 # The Project description
@@ -47,7 +50,7 @@ The landing page is aimed but not limited to the following users:
 # Design
 
 Colour Scheme
-- The main colors used throughout the landing page are: white, red(#e30134), dark- grey(#12151F) and light-grey(#696969). To use this range of colors i got inspired by the Royal Academy of Music (https://www.ram.ac.uk/).
+- The main colors used throughout the landing page are: white, red(#e30134), dark- grey(#12151F) and light-grey(#696969). To use this range of colors i got inspired by the [Royal Academy of Music](https://www.ram.ac.uk/).
 - The first the user sees when opens the landing page is the “Home” page with the main message for visitors, the navigation bar with the navigation menu, and the footer with contact details. For the “Home” page i used a black and white background hero image with the playing piano man to show that the landing page is related to music.
 - Together with the dark gray navbar and footer, the opaque overlay effect of the photo, gives the page simplicity, style and conveys the mood of a cozy concert time. At the same time, the logo (on the left of the navigation bar), navigation links and the main text in white, as well as the red button give freshness and highlight the main message for the user.
 - For the “How it works?” section i used red and white colors to highlight important information about the place, the time of the concerts and the place where the detailed information about the playlist can be obtained.
@@ -69,4 +72,46 @@ The founders/performers images are also used to make to introduce users to those
 ![Screenshot How it works](https://user-images.githubusercontent.com/65509895/106316456-0df43e80-626d-11eb-81c2-2c23fb2a932c.png)
 ![Screenshot_Meet_our_team](https://user-images.githubusercontent.com/65509895/106316459-10569880-626d-11eb-8490-6dc5202f1add.png)
 ![Screenshot_Mobile_view](https://user-images.githubusercontent.com/65509895/106316467-12b8f280-626d-11eb-95fa-44422af66c05.png)
+
+# Features
+-	The landing page is responsive on all device sizes
+-	Navigation bar – i used the Bootstrap 4 to make navigation bar responsive on all devices. The toggle button in mobile view makes it comfortable for users to navigate from smaller devices. The navber is fixed-top, what allows users to easily navigate throughout the landing page. 
+-	Internal links on the navigation bar:
+     1. Logo on the left allows any time to revert back to “Home” page when hovered over.
+     2. “Home”  - also allows to return to the Home page when hovered over.
+     3. “How it works” - when hovered over, leads the user to information about where, when the concerts are held and how they can find out more on the playlist.
+     4. “Book your spot” - when hovered over, leads the users to the filling form, where they can send contacts to book their spot at the concert.
+ 
+-	Clickable Button (Bootstrap 4) on the “Home” page in the header  leads the user to the filling form, where they can send contacts to book their spot at the concert .
+-	External links in “How it works” section in the header allow users to discover the venue (National Historicam Museum) and get more information on the playlist on the community Facebook page due to the Facebook icon.
+-	Conact form with the button - the filling form allows users to send contacts to book their spot at the concert .
+-	Footer external links – allow users to follow PianoClub socialmedia. These are consistent on each page.
+
+# Technologies Used
+
+## Languages Used
+-	[HTML5](https://en.wikipedia.org/wiki/HTML5)
+-	[CSS3](https://en.wikipedia.org/wiki/CSS)
+## Frameworks, Libraries & Programs Used
+-	[Bootstrap 4.0](https://getbootstrap.com/)
+    I used Bootstrap to provide the responsiveness and styling of the website as well as navigation bar, footer and danger button in the header.
+-	[Google Fonts](https://fonts.google.com/) 
+    I used Google fonts to import the 'Exo' font into the style.css file which is used on all pages throughout the project.
+-	[Font Awesome](https://fontawesome.com/) 
+    I used Font Awesome icons on “How it works”, “Meet our team”sections as well as on the Footer for social media icons for aesthetic and UX purposes.
+-	[jQuery](https://jquery.com/) 
+    jQuery comes with Bootstrap to make the navbar responsive.
+-	[Git](https://git-scm.com/) 
+    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+-	[GitHub](https://github.com/) 
+    GitHub is used to store the projects code after being pushed from Git.
+-	[Balsamiq](https://balsamiq.com/) 
+    I used Balsamiq to create initial wireframes for the project design.
+-	[Techsini](https://techsini.com/multi-mockup/)  
+     I used this service for making my project screenshots
+-	[W3C Markup Validation Service](https://validator.w3.org/) 
+     I used this service for testing HTMl
+-	[W3C CSS Validation Service](https://jigsaw.w3.org/) 
+    I used thihs service for testing CSS
+-	Chrome Developer Tools - test code changes and responsivity of site.
 
