@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-
-=======
 ![MS1_Screenshot](https://user-images.githubusercontent.com/65509895/106314805-91606080-626a-11eb-9875-249ef91bc23a.png)
->>>>>>> 0bec0ecde2da65397eb9d1e52eca215878c2f5b2
 
 # PianoClub
 ## Website for piano music lovers
@@ -46,11 +42,7 @@ The landing page is aimed but not limited to the following users:
 ## Returning Visitor Goals
 - As a returning visitor, I want to know if there is any information on updates in schedule, place or playlist.
 - As a returning visitor, I want to book my spot for the concert in the provided form.  
-- As a returning visitor I want to join the community most quickly.
-
-
-# Design Process
-The first step of the design process was based on the target audience's description, user story and the key features i wanted to provide on the landing page for intuitive navigation. Thus, i decided to implement several sections: “Home”, “How it works?”, “Who we are?”, “Book your spot”. In addition, i decided to add a navigation bar with the navigation menu and a footer with contacts. The original design changed slightly during the code generation, but not critical.
+- As a returning visitor I want to join the community most quickly. 
 
 # Design
 
@@ -69,33 +61,6 @@ The Exo font is the main font used throughout the landing page with Sans Serif a
 The large, background hero image is designed to convey the main message, catch the user's attention and bring them to the cozy environment of the piano concerts. As noted above, the photo is selected in black and white with an opaque overlay effect, which gives it some exclusivity.
 The founders/performers images are also used to make to introduce users to those who organized the project and who will play the concerts. For the photos, I used a 20% gray filter to avoid too much sharp contrast with the gray background.
 
-# Features
--	The landing page is responsive on all device sizes
--	Navigation bar – i used the Bootstrap 4 to make navigation bar responsive on all devices. The toggle button in mobile view makes it comfortable for users to navigate from smaller devices. The navber is fixed-top, what allows users to easily navigate throughout the landing page. 
--	Internal links on the navigation bar:
-     1. Hovered logo on the left allows any time to revert back to “Home” page.
-     2. Hovered “Home”  - also allows to return to the Home page
-     3. Hovered “How it works” - leads the user to information about where, when the concerts are held and how they can find out more on the playlist.
-     4. Hovered “Book your spot” - leads the users to the filling form, where they can send contacts to book their spot at the concert.
- 
--	Clickable Button (Bootstrap 4) on the “Home” page in the header  leads the user to the filling form, where they can send contacts to book their spot at the concert .
--	External links in “How it works” section in the header allow users to discover the venue (National Historicam Museum) and get more information on the playlist on the community Facebook page due to the Facebook icon.
--	Conact form with the button - the filling form allows users to send contacts to book their spot at the concert .
--	Footer external links – allow users to follow PianoClub socialmedia. These are consistent on each page.
-
-# Technologies Used
-## Languages Used
--	[HTML5]   (https://en.wikipedia.org/wiki/HTML5)
--	[CSS3]       (https://en.wikipedia.org/wiki/CSS)
-
-## Frameworks, Libraries & Programs Used
--	[Bootstrap 4.0]    (https://getbootstrap.com/) I used Bootstrap to provide the responsiveness and styling of the website as well as navigation bar, footer and danger button in the header.
--	[Google Fonts] (https://fonts.google.com/)  I used Google fonts to import the 'Exo' font into the style.css file which is used on all pages throughout the project.
--	[Font Awesome] (https://fontawesome.com/) I used Font Awesome icons on “How it works”, “Meet our team”sections as well as on the Footer for social media icons for aesthetic and UX purposes.
--	[jQuery] (https://jquery.com/)  jQuery comes with Bootstrap to make the navbar responsive.
--	[Git]  (https://git-scm.com/) Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
--	[GitHub]  (https://github.com/)  GitHub is used to store the projects code after being pushed from Git.
--	[Balsamiq] (https://balsamiq.com/)  I used Balsamiq to create initial wireframes for the project design.
 
 ## Wireframes
 
