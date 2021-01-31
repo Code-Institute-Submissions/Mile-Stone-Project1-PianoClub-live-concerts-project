@@ -82,9 +82,14 @@ The founders/performers images are also used to make to introduce users to those
      4. “Book your spot” - when hovered over, leads the users to the filling form, where they can send contacts to book their spot at the concert.
  
 -	Clickable Button (Bootstrap 4) on the “Home” page in the header  leads the user to the filling form, where they can send contacts to book their spot at the concert .
--	External links in “How it works” section in the header allow users to discover the venue (National Historicam Museum) and get more information on the playlist on the community Facebook page due to the Facebook icon.
+-	External links in “How it works” section in the header allow users to discover the venue [The Swedish History Museum](https://historiska.se/) and get more information on the playlist on the community Facebook page due to the Facebook icon.
 -	Conact form with the button - the filling form allows users to send contacts to book their spot at the concert .
--	Footer external links – allow users to follow PianoClub socialmedia. These are consistent on each page.
+-	Footer external links – allow users to follow PianoClub socialmedia. These are consistent on each page.  
+
+## Features left to implement  
+
+- In the future i would like to make the registration form interactive. 
+- For a better UX i would like in the future to create a possibility to update the concert's playlist directly on the website, not redirecting users to the project Facebook page.
 
 # Technologies Used
 
