@@ -48,7 +48,7 @@ The landing page is aimed but not limited to the following users:
 
 # Design
 
-Colour Scheme
+## Colour Scheme
 - The main colors used throughout the landing page are: white, red(#e30134), dark- grey(#12151F) and light-grey(#696969). To use this range of colors i got inspired by the [Royal Academy of Music](https://www.ram.ac.uk/).
 - The first the user sees when opens the landing page is the “Home” page with the main message for visitors, the navigation bar with the navigation menu, and the footer with contact details. For the “Home” page i used a black and white background hero image with the playing piano man to show that the landing page is related to music.
 - Together with the dark gray navbar and footer, the opaque overlay effect of the photo, gives the page simplicity, style and conveys the mood of a cozy concert time. At the same time, the logo (on the left of the navigation bar), navigation links and the main text in white, as well as the red button give freshness and highlight the main message for the user.
