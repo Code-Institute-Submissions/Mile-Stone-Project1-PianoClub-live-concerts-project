@@ -106,23 +106,24 @@ The founders/performers images are also used to make to introduce users to those
 -	[jQuery](https://jquery.com/) 
     jQuery comes with Bootstrap to make the navbar responsive.
 -	[Git](https://git-scm.com/) 
-    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    I used Git for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 -	[GitHub](https://github.com/) 
-    GitHub is used to store the projects code after being pushed from Git.
+    I used GitHub to store the projects code after being pushed from Git.
 -	[Balsamiq](https://balsamiq.com/) 
     I used Balsamiq to create initial wireframes for the project design.
 -	[Techsini](https://techsini.com/multi-mockup/)  
-     I used this service for making my project screenshots
+    I used this service for making my project screenshots
 -	[W3C Markup Validation Service](https://validator.w3.org/) 
-     I used this service for testing HTML
+    I used this service for testing HTML
 -	[W3C CSS Validation Service](https://jigsaw.w3.org/) 
     I used this service for testing CSS
 -	Chrome Developer Tools 
-    I used this to test code changes and responsivity of landing page.
+    I used this service to test code changes and responsivity of landing page.
 
 
 # Testing
-A lot of testing was carried out, including Google Chrome developer tools, manual testing on desktops, laptops, mobile devices as well as different browsers (more detailed in the “Further Testing section”). My friends and family also participated in the testing and gave me recommendations on how to make landing page more attractive visually and easier to navigate (more details in the “Known Bugs” section)
+A lot of testing was carried out, including Google Chrome developer tools, manual testing on desktops, laptops, mobile devices as well as different browsers (more detailed in the “Further Testing section”). My friends and family also participated in the testing and gave me recommendations on how to make landing page more attractive visually and easier to navigate (more details in the “Known Bugs” section).  
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
 - HTML
 ![W3C Markup Validator](/assets/images/Screenshot_HTML_Validation.png)  
