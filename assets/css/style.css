@@ -16,7 +16,7 @@ body {
    
 }
 
-/*----------------------------Navigation bar-------------------------------------------*/
+/*-------------Navigation bar-------*/
 
 .navbar-brand {
          font-family: "Exo", sans-serif;
@@ -37,7 +37,7 @@ body {
          border-bottom: 2px solid #e30134 !important
 }
 
-/*------------------------------Header-------------------------------------------*/
+/*----------------Header---------------*/
 
 .header > div {
     color: #fff;
@@ -76,7 +76,7 @@ background-color: rgba(0,0,0,0.5);
 
 
 
-/*---------------------------------Buttons-------------------------------------------*/
+/*--------------Call to action button------------*/
 
 .btn-danger a {
     color:white;
@@ -87,7 +87,7 @@ background-color: rgba(0,0,0,0.5);
     margin-top: 25px;
 }
 
-/*----------------------------------How it works---------------------------------------*/
+/*---------------How it works---------*/
 
 .description {
       color: #fff;
@@ -123,8 +123,6 @@ background-color: rgba(0,0,0,0.5);
   color: grey;
 }
 
-
-
 .description-text .museum a {
     text-decoration: none;    
     color: #fff;
@@ -134,16 +132,13 @@ background-color: rgba(0,0,0,0.5);
     color: grey;
 }
 
-
-/*--------------------------------Team-------------------------------------*/
-
+/*-----------------Team-------------*/
 .team {
 
     padding-top: 70px;
     padding-bottom: 160px;
     color: #fff;
     text-align: center;
-
 }
 
 .team-title {
@@ -159,7 +154,7 @@ background-color: rgba(0,0,0,0.5);
     color:#12151F;
 }
 
-/*-------------------------------Team members photos---------------------------------------*/
+/*----------------Team members images----------*/
 .team-items img {
      
   width:250px;
@@ -173,13 +168,11 @@ background-color: rgba(0,0,0,0.5);
   
 }
 
-/*---------------------------------Sign Up form----------------------*/
+/*---------------Sign Up form-----------*/
 
 .form-section {
     background-color:#696969;
 }
-
-
 
 .wrapper {
     max-width: 500px;
@@ -188,7 +181,6 @@ background-color: rgba(0,0,0,0.5);
     margin: 20px auto;
     padding: 30px;
     box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-
 }    
 
 .wrapper .title {
