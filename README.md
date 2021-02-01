@@ -83,12 +83,12 @@ The founders/performers images are also used to make to introduce users to those
  
 -	Clickable Button (Bootstrap 4) on the “Home” page in the header  leads the user to the filling form, where they can send contacts to book their spot at the concert .
 -	External links in “How it works” section in the header allow users to discover the venue [The Swedish History Museum](https://historiska.se/) and get more information on the playlist on the community Facebook page due to the Facebook icon.
--	Conact form with the button - the filling form allows users to send contacts to book their spot at the concert .
+-	Conact form with the button - the filling form allows users to send contacts to book their spot at the concert.
 -	Footer external links – allow users to follow PianoClub socialmedia. These are consistent on each page.  
 
 ## Features left to implement  
 
-- In the future i would like to make the registration form interactive. 
+- In the future i would like to make possible to submit data from the registration form. 
 - For a better UX i would like in the future to create a possibility to update the concert's playlist directly on the website, not redirecting users to the project Facebook page.
 
 # Technologies Used
@@ -126,7 +126,7 @@ A lot of testing was carried out, including Google Chrome developer tools, manua
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
 - HTML
-![W3C Markup Validator](/assets/images/Screenshot_HTML_Validation.png)  
+![W3C Markup Validator](/assets/images/Screenshot_HTML_Validation1.png)  
 - CSS
 ![W3C CSS Validator](/assets/images/Screenshot_CSS_Validation.png)
 # Testing User Stories from User Experience (UX) Section
@@ -253,6 +253,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     a.	The syntax of the button in the header was incorrect. Anchor tag could not be placed inside the button. After i resctructured the button  as <a href=”sign-up” class=”btn btn-danger” role=”button”> the error was resolved.  
 
     b.	After that, some warnings appeared but no errors.  
+
+## Issues not resolved yet  
+
+1. On small and medium screen sizes navbar does not collapse when clicked on a link, so it remains open.  
+2. The form validation does not work correctly on small and medium devices.  
+
 
 # Deployment
 ## GitHub Pages
