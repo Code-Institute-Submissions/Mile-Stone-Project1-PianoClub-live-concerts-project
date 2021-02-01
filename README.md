@@ -126,9 +126,9 @@ A lot of testing was carried out, including Google Chrome developer tools, manua
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
 - HTML
-![W3C Markup Validator](/assets/images/Screenshot_HTML_Validation1.png)  
+![W3C Markup Validator](/assets/images/screenshot_html_validation1.png)  
 - CSS
-![W3C CSS Validator](/assets/images/Screenshot_CSS_Validation.png)
+![W3C CSS Validator](/assets/images/screenshot_css_validation.png)
 # Testing User Stories from User Experience (UX) Section
 ## First Time Visitor Goals
 -	As a first time visitor, who loves live instrumental/piano music, i want to easily understand the main purpose of the website, which is providing the information on possibility to attend live piano music concerts.  
@@ -287,7 +287,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 $ git clone https://github.com/Diolg/Mile-Stone-Project1-PianoClub-live-concerts-project.git
 
 
-7.	Press Enter. Your local clone will be created. ![clone](/assets/images/Project_cloning1.png)  
+7.	Press Enter. Your local clone will be created. ![clone](/assets/images/project_cloning1.png)  
 
 
 # Credits
